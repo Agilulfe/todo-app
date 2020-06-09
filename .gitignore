@@ -1,0 +1,28 @@
+##Builds
+__pycache__
+
+# local venvs
+env
+.venv
+
+# Mac specifics
+.DS_Store
+
+##Text editors
+
+#Vim
+.*.sw?
+.sw?
+
+# Sublime Text
+*.sublime-*
+
+# Eclipse
+.project
+.pydevproject
+
+# PyCharm
+.idea
+
+# VSCode
+.vscode
