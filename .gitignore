@@ -4,6 +4,7 @@ __pycache__
 # local venvs
 env
 .venv
+node_modules
 
 # Mac specifics
 .DS_Store
